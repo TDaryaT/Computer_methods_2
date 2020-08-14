@@ -16,4 +16,4 @@ Area D looks like this:
 
 ![image](https://github.com/TDaryaT/Computer_methods_2/blob/master/img/domain.png)
 
-More about this work is [here](https://github.com/TDaryaT/Computer_methods_2/blob/master/main.tex)
+More about this work is [here](https://github.com/TDaryaT/Computer_methods_2/blob/master/Computer_methods_2.pdf)
